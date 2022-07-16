@@ -1,6 +1,7 @@
 {
   "extends": "@tsconfig/node14/tsconfig.json",
   "compilerOptions": {
+    "types": ["@league-of-foundry-developers/foundry-vtt-types"],
     "outDir": "dist"
   },
   "include": ["src"],

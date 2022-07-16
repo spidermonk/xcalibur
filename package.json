@@ -21,6 +21,7 @@
     "url": "https://github.com/spidermonk/xcalibur/issues"
   },
   "devDependencies": {
+    "@league-of-foundry-developers/foundry-vtt-types": "^9.269.0",
     "@tsconfig/node14": "^1.0.3",
     "@types/node": "^18.0.5",
     "@typescript-eslint/eslint-plugin": "^5.30.6",
