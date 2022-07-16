@@ -1,6 +1,7 @@
 {
     "watchFolder": "less",   
     "outputFolder": "css",
+    "mainFile": "xcalibur.less",
     "includeHidden": false,
     "sourceMap": false,
     "minified": false

@@ -6,7 +6,7 @@
     "author": "spidermonk13",
     "scripts": [],
     "esmodules": ["dist/xcalibur.js"],
-    "styles": ["hardcore.css"],
+    "styles": ["css/xcalibur.css"],
     "packs": [
     ],
     "languages": [
