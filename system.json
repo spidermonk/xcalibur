@@ -1,0 +1,28 @@
+{
+    "name": "xcalibur",
+    "title": "DnD5e - Fifth Edition System Minimalist & Hardcore Version",
+    "description": "A system for playing a minimalst and hardcore version of the fifth edition of the worlds most popular role-playing game in the Foundry Virtual Tabletop environment.",
+    "version": "1.0.0",
+    "author": "spidermonk13",
+    "scripts": [],
+    "esmodules": ["dist/xcalibur.js"],
+    "styles": ["hardcore.css"],
+    "packs": [
+    ],
+    "languages": [
+      {
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+      }
+    ],
+    "socket": true,
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": null,
+    "secondaryTokenAttribute": null,
+    "minimumCoreVersion": "9.245",
+    "compatibleCoreVersion": "9",
+    "url": "https://github.com/spidermonk/xcalibur"
+  }
+  

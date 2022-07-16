@@ -1,0 +1,33 @@
+{
+    "Actors": {
+        "types": ["character", "npc"],
+        "templates": {
+            "common": {
+
+            },
+            "character": {
+                "templates": ["common"]
+            },
+            "npc": {
+                "templates": ["common"]
+            }
+        }
+    },
+    "Item": {
+        "types": ["armor", "weapon", "item", "feat"],
+        "templates": {
+            "item": {
+
+            },
+            "armor": {
+                "templates": ["item"]
+            },
+            "weapon": {
+                "templates": ["item"]
+            },
+            "feat": {
+                
+            }
+        }
+    }
+}
